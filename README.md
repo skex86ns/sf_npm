@@ -1,2 +1,2 @@
 # sf_npm
-Skillfactory module 8
+Skillfactory 7.6. Практикум
